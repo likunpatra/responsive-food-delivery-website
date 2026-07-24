@@ -1,0 +1,23 @@
+# VS Code
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment files (if added in future)
+.env
+.env.*
+
+# Node modules (if you use npm later)
+node_modules/
+
+# Package lock (optional)
+package-lock.json
