@@ -6,11 +6,7 @@ A modern, responsive food delivery landing page built using **HTML5, CSS3, JavaS
 
 ## 🚀 Live Demo
 
-> Add your GitHub Pages link here after deployment.
-
-Example:
-
-https://yourusername.github.io/sahi-dastarkhwan-responsive-food-delivery-website/
+>  https://likunpatra.github.io/responsive-food-delivery-website/
 
 ---
 
