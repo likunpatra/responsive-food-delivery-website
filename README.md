@@ -127,10 +127,10 @@ using your preferred browser.
 MCA Graduate | Front-End Developer
 
 GitHub:
-https://github.com/yourusername
+https://github.com/likunpatra
 
 LinkedIn:
-(Add your LinkedIn Profile)
+www.linkedin.com/in/andana-kamallochan-patra-14b108270
 
 ---
 
